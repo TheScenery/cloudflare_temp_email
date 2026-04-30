@@ -276,7 +276,7 @@ onMounted(async () => {
                         class="header-version-button"
                         tag="a"
                         target="_blank"
-                        href="https://github.com/dreamhunter2333/cloudflare_temp_email"
+                        href="https://github.com/TheScenery/cloudflare_temp_email"
                     >
                         <template #icon>
                             <n-icon :component="GithubAlt" />
